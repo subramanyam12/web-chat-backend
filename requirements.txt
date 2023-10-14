@@ -5,14 +5,17 @@ Automat==22.10.0
 cffi==1.16.0
 constantly==15.1.0
 cryptography==41.0.4
+distlib==0.3.7
 Django==4.2.5
 django-cors-headers==4.2.0
 djangorestframework==3.14.0
+filelock==3.12.4
 hyperlink==21.0.0
 idna==3.4
 incremental==22.10.0
 msgpack==1.0.7
 Pillow==10.0.1
+platformdirs==3.11.0
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycparser==2.21
@@ -27,4 +30,5 @@ twisted-iocpsupport==1.0.4
 txaio==23.1.1
 typing_extensions==4.8.0
 tzdata==2023.3
+virtualenv==20.24.5
 zope.interface==6.1
